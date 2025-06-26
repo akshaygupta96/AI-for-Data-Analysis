@@ -10,7 +10,7 @@
 
 - 📂 Upload your own CSV file via a simple web UI
 - 💬 Ask natural language questions like:  
-  _"What is this dataset about?"_ or _"Plot the top 5 cities by rainfall"_
+  _"What is this dataset about?"_ or _"Plot the top 5 features of this dataset"
 - 📊 Get **concise answers**, **explanatory analysis**, and **Python code** using `pandas` + `matplotlib`
 - 🔒 Fully private — uses **local LLMs** like `codellama` via Ollama
 - 🧱 Modular and open-source — easy to extend with more tools/models
