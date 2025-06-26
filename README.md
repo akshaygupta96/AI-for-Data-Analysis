@@ -1,6 +1,6 @@
 # AI_LLM-for-Data-Analysis (Shivaji.ai)
 
-# Shivaji.ai — Local LLM for Data Analysis
+## Shivaji.ai — Local LLM for Data Analysis
 
 **Shivaji.ai** is an open-source AI chatbot that helps you analyze CSV datasets using natural language. It runs **fully locally** using [Ollama](https://ollama.com/) and [FastAPI](https://fastapi.tiangolo.com/), ensuring **data privacy** with zero dependency on cloud APIs.
 
