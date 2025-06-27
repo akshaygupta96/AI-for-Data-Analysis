@@ -6,18 +6,18 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📂 Upload your own CSV file via a simple web UI
-- 💬 Ask natural language questions like:  
+- Upload your own CSV file via a simple web UI
+- Ask natural language questions like:  
   "What is this dataset about?" or "Plot the top 5 features of this dataset"
-- 📊 Get **concise answers**, **explanatory analysis**, and **Python code** using `pandas` + `matplotlib`
-- 🔒 Fully private — uses **local LLMs** like `codellama` via Ollama
-- 🧱 Modular and open-source — easy to extend with more tools/models
+- Get **concise answers**, **explanatory analysis**, and **Python code** using `pandas` + `matplotlib`
+- Fully private — uses **local LLMs** like `codellama` via Ollama
+- Modular and open-source — easy to extend with more tools/models
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer         | Tech                      |
 |---------------|---------------------------|
@@ -29,7 +29,7 @@
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 1. **Python 3.11+**
 
